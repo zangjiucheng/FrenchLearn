@@ -37,7 +37,28 @@
 
 ---
 
+## 📺 TV5Monde Apprendre
+
+### Québec 系列 (B1-B2)
+
+| 编号 | 主题 | 难度 | 链接 |
+|------|------|------|------|
+| 01 | Le Québec au cœur de la Francophonie | B1 | [Exercices](https://apprendre.tv5monde.com/fr/exercice/37955?id_serie=37960&nom_serie=le_quebec_au_c_ur_de_la_francophonie_&niveau=b1_intermediaire&exercice=1) |
+
+**特点**:
+- 采访魁北克部长 Christopher Skeete
+- 涉及政治、经济、文化议题
+- 适合 B1-B2 水平
+
+---
+
 ## 📝 学习记录
+
+### 2026-05-11
+- ✅ Québec et Francophonie 完成
+  - 词汇表: `vocabulary/québec-francophonie-2026-05-11.md`
+  - 语法: `grammar/relative-ou.md`
+  - 听力: `listening/québec-francophonie-2026-05-11.md`
 
 ### 2026-05-09
 - ✅ Voyages 01 完成
@@ -47,4 +68,4 @@
 
 ---
 
-*最后更新*: 2026-05-09
+*最后更新*: 2026-05-11
