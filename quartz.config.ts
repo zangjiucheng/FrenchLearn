@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "jiucheng.github.io/FrenchLearn",
+    baseUrl: "french.jiucheng-zang.ca",
     ignorePatterns: [".obsidian", ".opencode", ".github", ".git", "node_modules", "templates"],
     defaultDateType: "modified",
     theme: {
