@@ -1,0 +1,20 @@
+{
+  "html-server:start-server": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "html-server:stop-server": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}

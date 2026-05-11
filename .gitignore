@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Quartz clone (build artifact)
+.quartz/
+
+# Obsidian workspace (personal state)
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-git/data.json
+
+# Obsidian trash
+.trash/
