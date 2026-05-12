@@ -4,12 +4,12 @@
 
 ### Voyages 系列 (A1-B1)
 
-| 编号 | 主题 | 难度 | 链接 |
-|------|------|------|------|
-| 01 | Deviner les destinations | A1 | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/32629?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=1) |
-| 02 | - | A1 | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/33824?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=2) |
-| 03 | - | A1 | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/33823?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=3) |
-| 04 | Grammaire : prépositions de lieu | A1 | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/32658?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=4) |
+| 编号  | 主题                               | 难度  | 链接                                                                                                                            |
+| --- | -------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 01  | Deviner les destinations         | A1  | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/32629?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=1) |
+| 02  | -                                | A1  | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/33824?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=2) |
+| 03  | -                                | A1  | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/33823?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=3) |
+| 04  | Grammaire : prépositions de lieu | A1  | [ Exercices](https://apprendre.tv5monde.com/fr/exercice/32658?id_serie=32659&nom_serie=voyages&niveau=a1_debutant&exercice=4) |
 
 **特点**:
 - 视频 + 听力练习

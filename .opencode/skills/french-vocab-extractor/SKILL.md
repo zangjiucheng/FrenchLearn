@@ -19,8 +19,17 @@ Process these input types:
 - YouTube video transcripts
 - Podcast subtitles (SRT, VTT)
 - Web page content
+- **Transcriptions**: French interview/podcast transcripts with Chinese translation (stored in `transcriptions/` folder)
 
 ## Workflow
+
+### 0. Store Transcriptions
+
+For video/audio sources, also create transcription files in `transcriptions/` folder with:
+- Original French transcript
+- Chinese translation
+- Key vocabulary highlighted
+- Audio/video source link
 
 ### 1. Analyze the Input
 
