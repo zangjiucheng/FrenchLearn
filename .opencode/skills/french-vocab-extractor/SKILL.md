@@ -25,11 +25,46 @@ Process these input types:
 
 ### 0. Store Transcriptions
 
-For video/audio sources, also create transcription files in `transcriptions/` folder with:
+For video/audio sources, create transcription files in `transcriptions/` folder with:
+
+```markdown
+---
+title: "Transcription - [Topic]"
+date: [YYYY-MM-DD]
+tags:
+  - transcription
+  - [topic]
+  - [CEFR level]
+---
+
+# Transcription — [Title]
+
+**来源**: [Source]
+**日期**: [YYYY-MM-DD]
+**难度**: [A1/B1/B2]
+
+## 🎙️ Interview
+
+[Content with Chinese translation]
+
+---
+
+## 🔗 Obsidian Graph Connections
+
+### Related Files (Wikilinks)
+- [[vocabulary/[topic]-[date]|Vocabulaire]]
+- [[listening/[topic]-[date]|Listening]]
+- [[grammar/[topic]|Grammaire]]
+- [[daily-plan-[date]|Daily Plan]]
+```
+
+**Required elements**:
 - Original French transcript
-- Chinese translation
+- Chinese translation (中文翻译)
 - Key vocabulary highlighted
 - Audio/video source link
+- Frontmatter with tags
+- Wikilinks to related files
 
 ### 1. Analyze the Input
 
@@ -58,9 +93,18 @@ For each selected item, find:
 
 ### 4. Generate Obsidian Note
 
-Create a well-structured vocabulary note in Markdown format:
+Create a well-structured vocabulary note in Markdown format with **frontmatter** and **graph connections**:
 
 ```markdown
+---
+title: "[Vocabulaire - Topic]"
+date: [YYYY-MM-DD]
+tags:
+  - vocabulary
+  - [topic]
+  - [CEFR level]
+---
+
 # [Word or Expression]
 
 **Meaning**: [English translation]
@@ -77,6 +121,18 @@ Create a well-structured vocabulary note in Markdown format:
 
 ## Notes
 [Any additional context, nuances, or memory tips]
+
+---
+
+## 🔗 Obsidian Graph Connections
+
+### Related Topics (Wikilinks)
+- [[transcriptions/[filename]|Transcription]]
+- [[vocabulary/[filename]|Vocabulaire]]
+- [[listening/[filename]|Listening]]
+- [[grammar/[filename|Grammaire]]
+- [[daily-plan-[date]|Daily Plan]]
+- [[related-topic|Related Topic]]
 ```
 
 ### 5. Group Related Vocabulary

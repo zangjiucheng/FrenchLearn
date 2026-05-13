@@ -1,3 +1,12 @@
+---
+title: "Grammaire - Relative où"
+date: 2026-05-11
+tags:
+  - grammaire
+  - relative
+  - B1
+---
+
 # Grammaire — Relative avec « où » et structures apparentées
 
 ## 📌 La relative avec « où » (关系从句)

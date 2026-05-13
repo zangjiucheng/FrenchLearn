@@ -1,3 +1,12 @@
+---
+title: "Grammaire - Prépositions de lieu"
+date: 2026-05-09
+tags:
+  - grammaire
+  - prépositions
+  - A1
+---
+
 # Grammaire — Prépositions de lieu
 
 ## 📌 Règle principale

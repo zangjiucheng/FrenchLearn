@@ -52,7 +52,26 @@
 
 ---
 
+### Santé 系列 (B1)
+
+| 编号 | 主题 | 难度 | 链接 |
+|------|------|------|------|
+| 01 | États-Unis: une santé sous influence | B1 | [Exercices](https://apprendre.tv5monde.com/fr/exercice/38217?id_serie=38218&nom_serie=etats_unis_une_sante_sous_influence&niveau=b1_intermediaire&exercice=1) |
+
+**特点**:
+- 关于美国疫苗接种和麻疹
+- 医学词汇积累
+- 适合 B1 水平
+
+---
+
 ## 📝 学习记录
+
+### 2026-05-13
+- ✅ USA Santé 完成
+  - 词汇表: `vocabulary/usa-sante-2026-05-13.md`
+  - 语法: `grammar/medical-expressions.md`
+  - 听力: `listening/usa-sante-2026-05-13.md`
 
 ### 2026-05-11
 - ✅ Québec et Francophonie 完成
@@ -68,4 +87,4 @@
 
 ---
 
-*最后更新*: 2026-05-11
+*最后更新*: 2026-05-13

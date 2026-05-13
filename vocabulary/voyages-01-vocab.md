@@ -1,3 +1,13 @@
+---
+title: "Vocabulaire - Voyages 1"
+date: 2026-05-09
+tags:
+  - vocabulary
+  - voyages
+  - A1
+  - lieux
+---
+
 # Vocabulaire — Voyages 1
 
 ## 🌍 Lieux géographiques
@@ -66,6 +76,15 @@
 | [Devinez où je pars !](https://www.frdic.com/dicts/fr/devinez%20o%C3%B9%20je%20pars)     | 猜猜我去哪！ | 📢  |
 | [C'est à l'ouest, sud-ouest](https://www.frdic.com/dicts/fr/sud-ouest)                   | 在西南方   | 📢  |
 | [la destination de vacances](https://www.frdic.com/dicts/fr/destination%20de%20vacances) | 度假目的地  | 📢  |
+
+---
+
+## 🔗 Related
+
+- [[transcriptions/voyages-01-2026-05-09|Transcription]]
+- [[listening/voyages-01-listening|Listening]]
+- [[grammar/prepositions-lieu|Grammaire]]
+- [[daily-plan-2026-05-09|Daily Plan]]
 
 ---
 

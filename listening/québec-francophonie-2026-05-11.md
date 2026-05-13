@@ -1,3 +1,13 @@
+---
+title: "Listening - Québec Francophonie"
+date: 2026-05-11
+tags:
+  - listening
+  - québec
+  - francophonie
+  - B1
+---
+
 # Listening Practice — Québec et Francophonie
 
 **来源**: TV5Monde Apprendre

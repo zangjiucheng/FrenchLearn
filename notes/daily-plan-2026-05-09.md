@@ -1,3 +1,12 @@
+---
+title: "Daily Plan - 2026-05-09"
+date: 2026-05-09
+tags:
+  - daily-plan
+  - A1
+  - voyages
+---
+
 # French Daily Plan — 2026-05-09
 
 **目标**: B2 备考 (DELF/TEF/TCF) | **时间**: ~90 min
@@ -83,3 +92,12 @@
 - [ ] Writing
 - [ ] Shadowing
 - [ ] Review
+
+---
+
+## 🔗 Related Files
+
+- [[transcriptions/voyages-01-2026-05-09|Transcription]]
+- [[vocabulary/voyages-01-vocab|Vocabulaire]]
+- [[listening/voyages-01-listening|Listening]]
+- [[grammar/prepositions-lieu|Grammaire]]

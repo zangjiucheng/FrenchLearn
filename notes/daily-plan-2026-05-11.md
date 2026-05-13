@@ -1,3 +1,13 @@
+---
+title: "Daily Plan - 2026-05-11"
+date: 2026-05-11
+tags:
+  - daily-plan
+  - B1
+  - québec
+  - francophonie
+---
+
 # French Daily Plan — 2026-05-11
 
 **目标**: B2 备考 (DELF/TEF/TCF) | **时间**: ~90 min
@@ -96,3 +106,12 @@
 - [ ] Writing
 - [ ] Shadowing
 - [ ] Review
+
+---
+
+## 🔗 Related Files
+
+- [[transcriptions/quebec-francophonie-2026-05-11|Transcription]]
+- [[vocabulary/québec-francophonie-2026-05-11|Vocabulaire]]
+- [[listening/québec-francophonie-2026-05-11|Listening]]
+- [[grammar/relative-ou|Grammaire]]

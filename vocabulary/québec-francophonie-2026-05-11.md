@@ -1,3 +1,14 @@
+---
+title: "Vocabulaire - Québec Francophonie"
+date: 2026-05-11
+tags:
+  - vocabulary
+  - québec
+  - francophonie
+  - B1
+  - politique
+---
+
 # Vocabulaire — Québec et Francophonie
 
 ## 🏛️ Politique / International
@@ -72,6 +83,15 @@
 | [l'histoire nous enseigne](https://www.frdic.com/dicts/fr/l'histoire%20nous%20enseigne) | 历史告诉我们 |
 | [on est trop dépendants](https://www.frdic.com/dicts/fr/trop%20d%C3%A9pendants) | 我们太依赖... |
 | [des affaires à développer](https://www.frdic.com/dicts/fr/affaires%20%C3%A0%20d%C3%A9velopper) | 要发展的业务 |
+
+---
+
+## 🔗 Related
+
+- [[transcriptions/quebec-francophonie-2026-05-11|Transcription]]
+- [[listening/québec-francophonie-2026-05-11|Listening]]
+- [[grammar/relative-ou|Grammaire]]
+- [[daily-plan-2026-05-11|Daily Plan]]
 
 ---
 

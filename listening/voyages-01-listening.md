@@ -1,3 +1,12 @@
+---
+title: "Listening - Voyages 1"
+date: 2026-05-09
+tags:
+  - listening
+  - voyages
+  - A1
+---
+
 # Listening Practice — Voyages 1
 
 **来源**: TV5Monde Apprendre

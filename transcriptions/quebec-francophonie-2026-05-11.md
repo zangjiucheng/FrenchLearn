@@ -1,3 +1,14 @@
+---
+title: "Transcription - Québec Francophonie"
+date: 2026-05-11
+tags:
+  - transcription
+  - québec
+  - francophonie
+  - politique
+  - B1
+---
+
 # Transcription — Québec et Francophonie
 
 **来源**: TV5Monde Apprendre - L'Invité
